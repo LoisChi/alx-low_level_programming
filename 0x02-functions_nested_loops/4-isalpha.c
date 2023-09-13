@@ -3,7 +3,7 @@
 /**
  * _isalpha - Entry point
  *@c: char
- *return: 0 or 1
+ *Return: 0 or 1
  */
 int _isalpha(int c)
 {
